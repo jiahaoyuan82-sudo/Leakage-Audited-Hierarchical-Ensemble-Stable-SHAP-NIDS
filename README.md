@@ -1,4 +1,4 @@
-# UNSW-NB15 hierarchical ensemble and stable SHAP: code-only reproduction
+# Leakage-Audited Hierarchical Ensemble Learning with Stable SHAP Explanations for Network Intrusion Detection
 
 This repository contains the code needed to rerun the experiment described in *Leakage-Audited Hierarchical Ensemble Learning with Stable SHAP Explanations for Network Intrusion Detection*. It contains **no dataset, trained models, saved predictions, or result figures**. The two curated UNSW-NB15 CSVs must be supplied by the person running it. The data were collected in the UNSW cyber range and combine normal activity with generated attacks; they are not real enterprise production traffic.
 
